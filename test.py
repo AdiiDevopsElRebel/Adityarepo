@@ -1,1 +1,1 @@
-print('Hello, world devops V12')
+print'Hello, world devops V12')
